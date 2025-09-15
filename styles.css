@@ -1,0 +1,4 @@
+html, body, #app { height: 100%; margin: 0; background: #0b1021; font-family: system-ui, Arial, sans-serif; }
+canvas { display: block; margin: 0 auto; image-rendering: pixelated; }
+#offline-banner { position: fixed; top: 8px; left: 50%; transform: translateX(-50%); background: #ef4444; color: #fff; padding: 6px 10px; border-radius: 6px; font-size: 14px; z-index: 1000; }
+.hidden { display: none; }
